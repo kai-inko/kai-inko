@@ -4,6 +4,9 @@ First of all, I'm not a programmer. I'm just a guy trying to make thing works, b
 
 Second of all, hope you find it helpful with some of my janky creations.
 
+Much appreciated,
+Hung
+
 <!--
 **kai-inko/kai-inko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
