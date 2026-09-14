@@ -1,6 +1,6 @@
 ## Greetings.
 
-First of all, I'm not a programmer. I'm just a guy trying to make thing works, by any means.
+First of all, I'm not a fluent programmer. I'm just a guy trying to make thing works, by any means.
 
 Second of all, hope you find it helpful with some of my janky creations.
 
