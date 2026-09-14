@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings.
+
+First of all, I'm not a programmer. I'm just a guy who trying to make thing works, by any mean.
+
+Second of all, hope you find it helpful with some of my janky creations.
 
 <!--
 **kai-inko/kai-inko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
