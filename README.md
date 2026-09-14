@@ -8,7 +8,7 @@ Second of all, I hope you find them helpful from some of my janky creations.
 
 Much appreciated,
 
-Hung
+kai-inko
 
 <!--
 **kai-inko/kai-inko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
