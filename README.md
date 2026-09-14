@@ -2,7 +2,7 @@
 
 First of all, I'm not a fluent programmer. I'm just a guy trying to make thing works, by any means.
 
-Second of all, hope you find it helpful with some of my janky creations.
+Second of all, I hope you find them helpful from some of my janky creations.
 
 
 
