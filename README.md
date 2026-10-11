@@ -8,7 +8,7 @@ Second of all, I hope you find them helpful from some of my janky creations.
 
 Much appreciated,
 
-Kai 'n Ko
+Kai
 
 
 # Tiếng Việt
